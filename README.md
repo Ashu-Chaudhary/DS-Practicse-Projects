@@ -1,2 +1,2 @@
 # DS-Practicse-Projects
- These are my practice projects on Python.
+ #These are my practice projects on Python.
